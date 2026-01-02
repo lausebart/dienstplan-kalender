@@ -1,0 +1,34 @@
+Datum,Soll,Ist,Bereich,Aufgabe,Arbeitszeitkonto
+"Thu, 01. January",Frei,Frei,SUW Johanniterstr.,,0.00
+"Fri, 02. January",TBL,TBL,SUW Johanniterstr.,08:00 - 15:00 (30) ,6.50
+"Sat, 03. January",-,-,SUW Johanniterstr.,,0.00
+"Sun, 04. January",-,-,SUW Johanniterstr.,,0.00
+"Mon, 05. January",-,-,SUW Johanniterstr.,,0.00
+"Tue, 06. January",S1,S1,SUW Johanniterstr.,13:00 - 22:00 (30) Betreuung,8.50
+"Wed, 07. January",S2,S2,SUW Johanniterstr.,15:00 - 20:00 (0) Betreuung,5.00
+"Thu, 08. January",F1,F1,SUW Johanniterstr.,06:30 - 12:30 (0) ,6.00
+"Fri, 09. January",TBL,TBL,SUW Johanniterstr.,08:30 - 15:30 (30) ,6.50
+"Sat, 10. January",FW1,FW1,SUW Johanniterstr.,08:00 - 15:15 (30) ,6.75
+"Sun, 11. January",SW1,SW1,SUW Johanniterstr.,14:00 - 21:00 (30) Betreuung,6.50
+"Mon, 12. January",F1,F1,SUW Johanniterstr.,06:30 - 12:30 (0) ,6.00
+"Tue, 13. January",S1,S1,SUW Johanniterstr.,13:00 - 22:00 (30) Betreuung,8.50
+"Wed, 14. January",STM2,STM2,SUW Johanniterstr.,12:30 - 20:00 (30) Betreuung,7.00
+"Thu, 15. January",F1,F1,SUW Johanniterstr.,06:30 - 12:30 (0) ,6.00
+"Fri, 16. January",TBL,TBL,SUW Johanniterstr.,08:30 - 15:30 (30) ,6.50
+"Sat, 17. January",-,-,SUW Johanniterstr.,,0.00
+"Sun, 18. January",-,-,SUW Johanniterstr.,,0.00
+"Mon, 19. January",-,-,SUW Johanniterstr.,,0.00
+"Tue, 20. January",NBz1,NBz1,SUW Johanniterstr.,21:45 - 22:00 (0) Betreuung,3.95
+,,,,22:00 - 06:00 (0) Bereitschaft 40%,
+,,,,06:00 - 06:30 (0) Betreuung,
+"Wed, 21. January",Frei,Frei,SUW Johanniterstr.,,0.00
+"Thu, 22. January",F1,F1,SUW Johanniterstr.,06:30 - 12:30 (0) ,6.00
+"Fri, 23. January",TBL,TBL,SUW Johanniterstr.,08:30 - 15:30 (30) ,6.50
+"Sat, 24. January",FW1,FW1,SUW Johanniterstr.,08:00 - 15:15 (30) ,6.75
+"Sun, 25. January",SW1,SW1,SUW Johanniterstr.,15:00 - 21:00 (0) Betreuung,6.00
+"Mon, 26. January",F1,F1,SUW Johanniterstr.,06:30 - 12:30 (0) ,6.00
+"Tue, 27. January",S1,S1,SUW Johanniterstr.,13:00 - 22:00 (30) Betreuung,8.50
+"Wed, 28. January",STM2,STM2,SUW Johanniterstr.,12:30 - 20:00 (30) Betreuung,7.00
+"Thu, 29. January",F1,F1,SUW Johanniterstr.,06:30 - 12:30 (0) ,6.00
+"Fri, 30. January",TBL,TBL,SUW Johanniterstr.,08:30 - 15:30 (30) ,6.50
+"Sat, 31. January",-,-,SUW Johanniterstr.,,0.00
